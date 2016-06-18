@@ -21,3 +21,5 @@ Summons a Boat
 Conceals a Throwing Knife
 Photocopies Paper
 Creates an Exact 3D Replica
+Repels Alligators
+Poisons Sharks
