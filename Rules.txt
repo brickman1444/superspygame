@@ -1,13 +1,61 @@
-make a spy
+I Have Just the Thing
 
-make a premise
+By Zac Gross
 
-do scenes
+	I Have Just the Thing is a storytelling game about a superspy which is meant to emulate spy movies like James Bond. The game is intended for 2 to 8 players.
 
-	In each scene, draw an item card and a function card. This makes a gadget that looks like the item but functions like the function. The spy had the item the whole time and was waiting for the perfect time to use it. The player comes up with a scene where the spy gets into trouble and the gadget is the perfect solution to the problem.
+	First, come up with a superspy character, a supervillain name and a geographic location. The superspy cannot be a white man and cannot be American or British.
 
-Get points for hitting plot points?
+	The game is played in turns. The player who most recently saw a superspy movie goes first. Each player will take a turn narrating a scene and then control will pass to the player on their left. 
 
-Move along a track for the narrative?
+Turns
+	On a turn, the controlling player draws an Item Card and a Function Card. This defines a cool gadget in the form of: “It’s a [Item Card] that [Function Card]” such as “It’s a form fitting tuxedo that poisons sharks.” The player does not reveal the cards to the other players. The player narrates a scene with the superspy in it continuing the story. The scene must involve the superspy getting into a type of trouble or conflict where their gadget (the cards they drew) is the perfect thing to get them out of trouble. A scene should take about 1-2 minutes.
+	For example, with the form fitting tuxedo that poisons sharks, the player would narrate a scene where the superspy goes to a fancy party to gather information. Then the villain floods the room and releases sharks. The superspy saves the partiers by jumping into the mouths of sharks and poisoning them. 
+Currency
+Each player starts with a pool of seven tokens. Tokens can be used in the following ways:
+Tipping another player after a particularly good scene
+Spending one token to redraw a card
+Spending one token to add or change something small in another player’s scene
+This can be refused by giving back two tokens to the player who wanted influence.
 
-at the end of the story, defeat the villain, winner has the most points?
+The player who ends with the most tokens is the “winner” but it’s more about telling a good story and having fun.
+
+Narrative Structure
+
+For 2, 3, 5 or 6 players, turns are split as follows:
+Last Mission
+Briefing and First Body Scene
+Body Scene
+Plot Reveal
+Body Scene
+Final Conflict
+
+For 4, 7 or 8 players, turns are split as follows:
+
+Last Mission
+Briefing and First Body Scene
+Body Scene
+Body Scene
+Body Scene
+Plot Reveal
+Body Scene
+Final Conflict
+
+Last Mission: The very last scene of the superspy’s last mission. A weak villain is defeated.
+
+Briefing: The superspy is briefed by a superior with intel about an evil plot. Draw an item card. Part of the briefing should be the phrase. “[Villain Name] has taken control of all the [Item Card] in [Geographic Area].”
+
+Body Scene: Most of the game are body scenes. Body scenes move the plot forward and must contain one of the following:
+A henchperson with a body part replaced with a weapon is introduced.
+A fancy party
+Gambling
+An ally is introduced
+An ally is killed
+A secret location is found
+An iconic international location
+Someone’s desires are their undoing
+
+Plot Reveal: The villain captures the superspy and monologues their evil plot to the spy. Then the spy escapes using their gadget.
+
+Final Conflict: The villain is defeated. 
+
