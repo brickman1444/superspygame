@@ -4,7 +4,7 @@ By Zac Gross
 
 	I Have Just the Thing is a storytelling game about a superspy which is meant to emulate spy movies like James Bond. The game is intended for 2 to 8 players.
 
-	First, come up with a superspy character, a supervillain name and a geographic location. The superspy cannot be a white man.
+	First, come up with a superspy character, a supervillain name and a geographic location. The superspy cannot be a white man. It often helps to pick an actor or actress to cast as the superspy.
 
 	The game is played in turns. The player who most recently saw a superspy movie goes first. Each player will take a turn narrating a scene and then control will pass to the player on their left. 
 
