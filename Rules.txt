@@ -4,7 +4,24 @@ By Zac Gross
 
 	I Have Just the Thing is a storytelling game about a superspy which is meant to emulate spy movies like James Bond. The game is intended for 2 to 8 players.
 
-	First, come up with a superspy character, a supervillain name and a geographic location. The superspy cannot be a white man. It often helps to pick an actor or actress to cast as the superspy.
+Setup
+
+	First, come up with a superspy character, a supervillain name and a geographic location to start in. It often helps to pick an actor or actress to cast as the superspy. The superspy cannot be a white man and the starting location must be outside the United States and the United Kingdom.
+
+	Next, create the plot deck. Without looking at the text of the cards, draw the number of scene cards for the number of players you have:
+
+# players	# scene cards
+2		3
+3		3
+4		5
+5		7
+6		9
+7		4
+8		5
+
+	Create the plot deck by placing the Final Conflict card face down to make the bottom. Then place a scene card. Then place the Plot Reveal card. Then place the rest of the scene cards. Top it off with the Briefing Card and finally the Last Mission Card.
+
+Gameplay
 
 	The game is played in turns. The player who most recently saw a superspy movie goes first. Each player will take a turn narrating a scene and then control will pass to the player on their left. 
 
