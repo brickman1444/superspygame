@@ -23,3 +23,5 @@ Photocopies Paper
 Creates an Exact 3D Replica
 Repels Alligators
 Poisons Sharks
+Conceals 50 gold coins
+Reflects lasers
