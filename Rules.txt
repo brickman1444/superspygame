@@ -6,7 +6,17 @@ By Zac Gross
 
 Setup
 
-	First, come up with a superspy character, a supervillain name and a geographic location to start in. It often helps to pick an actor or actress to cast as the superspy. The superspy cannot be a white man and the starting location must be outside the United States and the United Kingdom.
+	First, as a group, come up with a superspy character. They should have a nationality, and a physical description. It often helps to pick an actor or actress to cast as the superspy. The superspy cannot be a white man and the starting location must be outside the United States and the United Kingdom. Pick a code name by taking one color and one animal:
+
+Black		Tiger
+White		Fox
+Green		Snake
+Red		Eagle
+Blue		Trout
+Brown		Stag
+Silver		Bat
+
+	Next, come up with a supervillain name, such as Dr. Villanous, Colonel Pain or Lady Moneybags.
 
 	Next, create the plot deck. Without looking at the text of the cards, draw the number of scene cards for the number of players you have:
 
@@ -31,9 +41,8 @@ Turns
 Currency
 Each player starts with a pool of seven tokens. Tokens can be used in the following ways:
 Tipping another player after a particularly good scene
-Spending one token to redraw a card
-Spending one token to add or change something small in another player’s scene
-This can be refused by giving back two tokens to the player who wanted influence.
+Giving away one token to redraw a card
+Giving away one token to add or change something in another player’s scene. This can be refused by giving back two tokens to the player who wanted influence.
 
 The player who ends with the most tokens is the “winner” but it’s more about telling a good story and having fun.
 
