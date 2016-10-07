@@ -9,3 +9,7 @@ Scene - Someone is betrayed.
 Scene - An ally is killed.
 Scene - Someone's desires are their undoing.
 Scene - A chase in a crowded market or mall.
+Scene - An ally is hunted.
+Scene - The superspy takes on a false identity to infiltrate somewhere.
+Scene - Palpable tension between the superspy and a rival.
+Scene - A clue leads the superspy across the globe.
