@@ -47,10 +47,8 @@ Turns
 	On a turn, the controlling player draws an Item Card and a Function Card. This defines a cool gadget in the form of: “It’s a [Item Card] that [Function Card]” such as “It’s a form fitting tuxedo that poisons sharks.” The player does not reveal the cards to the other players. The player narrates a scene with the superspy in it continuing the story. The scene must involve the superspy getting into a type of trouble or conflict where their gadget (the cards they drew) is the perfect thing to get them out of trouble. A scene should take about 1-2 minutes.
 	For example, with the form fitting tuxedo that poisons sharks, the player would narrate a scene where the superspy goes to a fancy party to gather information. Then the villain floods the room and releases sharks. The superspy saves the partiers by jumping into the mouths of sharks and poisoning them. 
 Currency
-Each player starts with a pool of seven tokens. Tokens can be used in the following ways:
-Tipping another player after a particularly good scene
-Giving away one token to redraw a card
-Giving away one token to add or change something in another player’s scene. This can be refused by giving back two tokens to the player who wanted influence.
 
-The player who ends with the most tokens is the “winner” but it’s more about telling a good story and having fun.
+	Each player starts with a one tokens. Tokens can be spent for the following effects:
+Redraw a card
+Change a detail in a your scene or someone else's scene
 
