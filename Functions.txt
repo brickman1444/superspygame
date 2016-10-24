@@ -1,27 +1,27 @@
-Fires a Flare
-Is a Rebreather
-Sprays Knockout Gas
-Transmits its Location
-Transforms into a Plane
-Explodes
-Conceals a Small Sidekick
-Shoots a Knockout Dart
-Shoots Flames
-Turns You Invisible
 Causes Blindness
-Is a Jetpack
-Electrocutes
-Conceals a Parachute
-Is a Gieger Counter
-Is a Gun
-Creates a Mask to Impersonate Someone
-Decyphers Codes
-Translates the Thoughts of one Animal and Then Explodes
-Summons a Boat
-Conceals a Throwing Knife
-Photocopies Paper
-Creates an Exact 3D Replica
-Repels Alligators
-Poisons Sharks
 Conceals 50 gold coins
+Conceals a Blade
+Conceals a Parachute
+Creates a Mask to Impersonate Someone
+Creates an Exact Replica of an Object or Image
+Creates a Smokescreen
+Deciphers Codes
+Detects Radiation
+Electrocutes Everyone Touching It
+Explodes Violently
+Fires a Flare
+Fires a grappling hook
+Hacks into Traffic Cameras and Lights
+Is a Gun
+Is a Jetpack
+Is a Rebreather
+Poisons Sharks
 Reflects lasers
+Repels Alligators
+Shoots a Knockout Dart
+Shoots a Laser
+Shoots Flames
+Summons a Boat
+Transforms into a Plane
+Transmits its Location
+Turns You Invisible
