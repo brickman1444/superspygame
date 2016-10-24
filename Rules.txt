@@ -6,15 +6,23 @@ By Zac Gross
 
 Setup
 
-	First, as a group, come up with a superspy character. They should have a nationality, and a physical description. It often helps to pick an actor or actress to cast as the superspy. The superspy cannot be a white man and the starting location must be outside the United States and the United Kingdom. Pick a code name by taking one color and one animal:
+	First pick a starting location which is where the superspy is from. The starting location must be outside the United States and the United Kingdom, and the superspy cannot be a white man.
+
+	Pick a codename. If you can't think of one, choose a color and an animal:
 
 Black		Tiger
 White		Fox
 Green		Snake
 Red		Eagle
-Blue		Trout
-Brown		Stag
-Silver		Bat
+Blue		Elephant
+
+	Then pick one mental descriptor from the following list:
+
+Clumsy, Sauve, Smart, Comedic, Impulsive, Doubtful, Romantic, Silent, Violent, Pristine, Refined, Skittish
+
+	And pick one physical descriptor from the following list:
+
+Old, Young, Saggy, Greasy, Attractive, Jovial, Stone-faced, Buff, Quick, Unattractive, Lanky, Plump
 
 	Next, come up with a supervillain name, such as Dr. Villanous, Colonel Pain or Lady Moneybags.
 
