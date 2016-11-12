@@ -49,17 +49,23 @@ Finally, give everyone one Influence Token.
 
 ## Gameplay
 
-The game is played in turns. The player who most recently saw a superspy movie goes first. Each player will take a turn narrating a scene and then control will pass to the player on their left.
+The game is played in rounds and turns. A round consists of every player having a turn. During a turn, a player narrates a scene and once they are done, control will pass to the player on their left. The player who most recently saw a spy movie gets the first turn. Influence Tokens can be spent at any point. 
+
+### Rounds
+
+At the beginning of each round, each player draws an Item Card and places that card in front of them face up so the other players can see what it says.
 
 ### Turns
-On a turn, the controlling player draws an Item Card and a Function Card. This defines a cool gadget in the form of: “It’s a ________ that _________” such as “It’s a form fitting tuxedo that poisons sharks.” The player does not reveal the cards to the other players. The player narrates a scene with the superspy in it continuing the story. The scene must involve the superspy getting into a type of trouble or conflict where their gadget (the cards they drew) is the perfect thing to get them out of trouble. A scene should take about 1-2 minutes.
+On a turn, the controlling player draws a Function Card and a Scene Card. The Function Card and their Item Card for the round defines a cool gadget in the form of: “It’s a ________ that _________” such as “It’s a golf club that poisons sharks.” The player does not reveal the cards to the other players. The player narrates a scene following the prompt from the Scene Card continuing the established story. The scene must involve the superspy getting into a type of trouble or conflict where their gadget (the cards they drew) is the perfect thing to get them out of trouble. A scene should take about 1-5 minutes.
 
-For example, with the form fitting tuxedo that poisons sharks, the player would narrate a scene where the superspy goes to a fancy party to gather information. Then the villain floods the room and releases sharks. The superspy saves the partiers by jumping into the mouths of sharks and poisoning them.
+For example, with the golf club that poisons sharks, if the player had drawn the Scene Card for "A fancy party or high stakes gambling," the player would narrate a scene where the superspy gambles on a round of golf with the villain. After losing, the villain floods the course and releases sharks. The superspy saves the other golfers by tapping each shark with the club and poisoning them.
+
+After their turn, the player discards their Function, Item and Scene Cards.
  
 ### Influence Tokens
 
 Each player starts with a one Influence Token. Influence Tokens can be spent for the following effects:
 
 - Redraw a Item or Function card. You can draw two more cards and then choose from all three which one you want to keep.
-- Change a detail in someone else's scene. For example you could add a character to a scene, add an attribute to a character, add some dialogue to a character or change the environment.
+- Change a detail in someone else's scene. For example you could add a character to a scene, add an attribute to a character, add some dialogue to a character or change the environment. This can be to make the scene funnier, to help out a struggling player or to give a challenge to an experienced player.
 
