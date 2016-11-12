@@ -43,19 +43,21 @@ Next, create the plot deck. Without looking at the text of the cards, draw the n
 
 Create the plot deck by placing the Final Conflict card face down to make the bottom. Then place a scene card. Then place the Plot Reveal card. Then place the rest of the scene cards. Top it off with the Briefing Card and finally the Last Mission Card.
 
+Finally, give everyone one Influence Token.
+
 ## Gameplay
 
-The game is played in turns. The player who most recently saw a superspy movie goes first. Each player will take a turn narrating a scene and then control will pass to the player on their left. 
+The game is played in turns. The player who most recently saw a superspy movie goes first. Each player will take a turn narrating a scene and then control will pass to the player on their left.
 
 ### Turns
-On a turn, the controlling player draws an Item Card and a Function Card. This defines a cool gadget in the form of: “It’s a [Item Card] that [Function Card]” such as “It’s a form fitting tuxedo that poisons sharks.” The player does not reveal the cards to the other players. The player narrates a scene with the superspy in it continuing the story. The scene must involve the superspy getting into a type of trouble or conflict where their gadget (the cards they drew) is the perfect thing to get them out of trouble. A scene should take about 1-2 minutes.
+On a turn, the controlling player draws an Item Card and a Function Card. This defines a cool gadget in the form of: “It’s a ________ that _________” such as “It’s a form fitting tuxedo that poisons sharks.” The player does not reveal the cards to the other players. The player narrates a scene with the superspy in it continuing the story. The scene must involve the superspy getting into a type of trouble or conflict where their gadget (the cards they drew) is the perfect thing to get them out of trouble. A scene should take about 1-2 minutes.
 
 For example, with the form fitting tuxedo that poisons sharks, the player would narrate a scene where the superspy goes to a fancy party to gather information. Then the villain floods the room and releases sharks. The superspy saves the partiers by jumping into the mouths of sharks and poisoning them.
  
-### Currency
+### Influence Tokens
 
-Each player starts with a one tokens. Tokens can be spent for the following effects:
+Each player starts with a one Influence Token. Influence Tokens can be spent for the following effects:
 
-- Redraw a card
-- Change a detail in a your scene or someone else's scene
+- Redraw a Item or Function card. You can draw two more cards and then choose from all three which one you want to keep.
+- Change a detail in someone else's scene. For example you could add a character to a scene, add an attribute to a character, add some dialogue to a character or change the environment.
 
