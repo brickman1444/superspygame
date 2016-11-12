@@ -6,7 +6,9 @@
 
 ## Setup
 
-First pick a starting location which is where the superspy is from. The starting location must be outside the United States and the United Kingdom, and the superspy cannot be a white man.
+As a group you will come up with your main character, the superspy, and the basics of the supervillain. The superspy cannot be a white man, but the supervillain can be.
+
+First, pick a starting location which is where the superspy is from. The starting location must be a real place outside the United States and the United Kingdom. Some fun starting locations are the the Pyramids, Egypt; Buenos Aires, Argentina; Seoul, Korea; and Budapest, Hungary. 
 
 Pick a codename. If you can't think of one, choose a color and an animal:
 
@@ -24,7 +26,7 @@ Clumsy, Sauve, Smart, Comedic, Impulsive, Doubtful, Romantic, Silent, Violent, P
 
 And pick one physical descriptor from the following list:
 
-Old, Young, Saggy, Greasy, Attractive, Jovial, Stone-faced, Buff, Quick, Unattractive, Lanky, Plump
+Old, Young, Saggy, Greasy, Hot, Jovial, Stone-faced, Buff, Quick, Lanky, Plump
 
 Next, come up with a supervillain name, such as Dr. Villanous, Colonel Pain or Lady Moneybags.
 
