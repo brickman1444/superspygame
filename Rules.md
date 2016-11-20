@@ -6,6 +6,8 @@
 
 ## Setup
 
+### Characters
+
 As a group you will come up with your main character, the superspy, and the basics of the supervillain. The superspy cannot be a white man, but the supervillain can be.
 
 First, pick a starting location which is where the superspy is from. The starting location must be a real place outside the United States and the United Kingdom. Some fun starting locations are the the Pyramids, Egypt; Buenos Aires, Argentina; Seoul, Korea; and Budapest, Hungary. 
@@ -30,20 +32,12 @@ Old, Young, Saggy, Greasy, Hot, Jovial, Stone-faced, Buff, Quick, Lanky, Plump
 
 Next, come up with a supervillain name, such as Dr. Villanous, Colonel Pain or Lady Moneybags.
 
-Next, create the plot deck. Without looking at the text of the cards, draw the number of scene cards for the number of players you have:
 
-| players | scene cards |
-| --- | --- |
-|2|3|
-|3|3|
-|4|5|
-|5|7|
-|6|9|
-|7|4|
-|8|5|
+### Plot Cards
 
+Next, lay out the plot cards on your playing surface by following the column in the diagram below for the number of players you have. Each card should be placed face down and arranged in a line that looks like the diagram. Randomly select Scene Cards and don't look at the front of them.
 
-Create the plot deck by placing the Final Conflict card face down to make the bottom. Then place a scene card. Then place the Plot Reveal card. Then place the rest of the scene cards. Top it off with the Briefing Card and finally the Last Mission Card.
+![](https://raw.githubusercontent.com/brickman1444/superspygame/master/plotDeckDiagram.png)
 
 Finally, give everyone one Influence Token.
 
