@@ -32,7 +32,7 @@ As a group you will come up with your antagonist, the supervillain.
 
 Next, lay out the plot cards on your playing surface by following the column in the diagram below for the number of players you have. Each card should be placed face down and arranged in a line that looks like the diagram. Randomly select Scene Cards and don't look at the front of them. Put away the unused Scene Cards.
 
-![](https://raw.githubusercontent.com/brickman1444/superspygame/master/plotDeckDiagram.png)
+![Plot Deck Diagram](plotDeckDiagram.png)
 
 ### Influence Tokens
 
