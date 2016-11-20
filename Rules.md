@@ -6,40 +6,41 @@
 
 ## Setup
 
-### Characters
+### Create a Superspy
 
-As a group you will come up with your main character, the superspy, and the basics of the supervillain. The superspy cannot be a white man, but the supervillain can be.
+As a group you will come up with your protagonist, the superspy.
 
-First, pick a starting location which is where the superspy is from. The starting location must be a real place outside the United States and the United Kingdom. Some fun starting locations are the the Pyramids, Egypt; Buenos Aires, Argentina; Seoul, Korea; and Budapest, Hungary. 
+1. First, pick a look for your superspy by picking a Face Card. Put away the rest of the Face Cards.
 
-Pick a codename. If you can't think of one, choose a color and an animal:
+1. Then pick one Mental Attribute Card and one Physical Attribute Card to describe the most defining parts of the superspy. Put those cards in the center of the playing surface and put away the rest the unused cards.
 
-| Color | Animal |
-| --- | --- |
-|Black|Tiger|
-|White|Fox|
-|Green|Snake|
-|Red|Eagle|
-|Blue|Elephant|
+1. Pick a codename and write it down on a piece of paper in the center of your playing surface. If you can't think of one, choose a color and an animal like Red Tiger or Blue Eagle.
 
-Then pick one mental descriptor from the following list:
+	- Colors: Black, White, Green, Red, Blue
+	- Animals: Tiger, Fox, Snake, Eagle, Elephant
 
-Clumsy, Sauve, Smart, Comedic, Impulsive, Doubtful, Romantic, Silent, Violent, Pristine, Refined, Skittish
+### Create a Supervillain
 
-And pick one physical descriptor from the following list:
+As a group you will come up with your antagonist, the supervillain.
 
-Old, Young, Saggy, Greasy, Hot, Jovial, Stone-faced, Buff, Quick, Lanky, Plump
+1. First, pick one Motivation Card to describe the motivation behind the supervillain's evil plot. Put the card in the center and put away the rest.
 
-Next, come up with a supervillain name, such as Dr. Villanous, Colonel Pain or Lady Moneybags.
+1. Next, come up with a supervillain name, such as Dr. Villanous, Colonel Pain or Lady Moneybags. Write it down on a piece of paper and put it in the center with their Motivation Card.
 
 
 ### Plot Cards
 
-Next, lay out the plot cards on your playing surface by following the column in the diagram below for the number of players you have. Each card should be placed face down and arranged in a line that looks like the diagram. Randomly select Scene Cards and don't look at the front of them.
+Next, lay out the plot cards on your playing surface by following the column in the diagram below for the number of players you have. Each card should be placed face down and arranged in a line that looks like the diagram. Randomly select Scene Cards and don't look at the front of them. Put away the unused Scene Cards.
 
 ![](https://raw.githubusercontent.com/brickman1444/superspygame/master/plotDeckDiagram.png)
 
-Finally, give everyone one Influence Token.
+### Influence Tokens
+
+Give everyone one Influence Token.
+
+### Starting Location
+
+Right before beginning the first turn, pick a starting location which is where the  story will start and where superspy is from. The starting location must be a real place outside the United States and the United Kingdom. Some fun starting locations are the the Pyramids, Egypt; Buenos Aires, Argentina; Seoul, Korea; and Budapest, Hungary.
 
 ## Gameplay
 
