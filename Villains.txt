@@ -1,7 +1,6 @@
-Dr. Villanous is using [item] to take over the world.
+Dr. Villainous is using a collection of [item] to take over the world.
 
 Colonel Pain is trying to destroy the world's supply of [item].
-Destroy all of the world's X
 
 Lady Moneybags is exploiting the market of [item] to make a fortune.
 
