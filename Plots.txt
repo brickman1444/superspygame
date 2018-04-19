@@ -13,3 +13,6 @@ Scene - An ally is hunted.
 Scene - The superspy takes on a false identity to infiltrate somewhere.
 Scene - Palpable tension between the superspy and a rival.
 Scene - A clue leads the superspy across the globe.
+Scene - A boat chase or airplane chase.
+Scene - A conflict in a bathroom.
+Scene - Someone important must be reached at the top of a mountain.

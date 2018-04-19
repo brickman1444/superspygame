@@ -6,7 +6,6 @@ Camera
 Car
 Cellphone
 Clear Liquid
-Condom
 Diamond Necklace
 Form Fitting Tuxedo
 Full Martini Glass
@@ -24,7 +23,6 @@ Skin Colored Cream
 Skis
 Straw Hat
 Surfboard
-Tampon
 Umbrella
 Underwear
 Watch

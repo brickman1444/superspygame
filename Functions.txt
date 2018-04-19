@@ -2,11 +2,13 @@ Causes Blindness
 Conceals 50 gold coins
 Conceals a Blade
 Conceals a Parachute
+Controlled by a Friendly Artificial Intelligence
 Creates a Mask to Impersonate Someone
 Creates an Exact Replica of an Object or Image
 Creates a Smokescreen
 Deciphers Codes
 Detects Radiation
+Detects Lies
 Electrocutes Everyone Touching It
 Explodes Violently
 Fires a Flare
@@ -15,6 +17,7 @@ Hacks into Traffic Cameras and Lights
 Is a Gun
 Is a Jetpack
 Is a Rebreather
+Is Bulletproof
 Poisons Sharks
 Reflects lasers
 Repels Alligators
