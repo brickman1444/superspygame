@@ -13,6 +13,5 @@ Scene - The superspy takes on a false identity to infiltrate somewhere.
 Scene - Palpable tension between the superspy and a rival.
 Scene - A clue leads the superspy across the globe.
 Scene - A dangerous chase with physical obstacles.
-Scene - A conflict inside a residential location.
 Scene - Someone important must be saved.
 Scene - The villain achieves part of their plan
