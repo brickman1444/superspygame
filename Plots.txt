@@ -3,16 +3,16 @@ Briefing - The superspy gets a message from their superior. Draw an extra Item C
 Plot Reveal - The supervillain captures the superspy in a death trap and monologues their real evil plan.
 Final Conflict - The supervillain is defeated.
 Scene - A henchperson with a body part replaced with a weapon attacks.
-Scene - A fancy party or high stakes gambling.
+Scene - The superspy and villain get close enough to touch, but can't directly attack each other.
 Scene - A close quarters fight on an international landmark.
 Scene - Someone is betrayed.
 Scene - An ally is killed.
-Scene - Someone's desires are their undoing.
-Scene - A chase in a crowded market or mall.
-Scene - An ally is hunted.
+Scene - A chase with many innocent bystanders.
+Scene - An ally helps the superspy get closer to the villain.
 Scene - The superspy takes on a false identity to infiltrate somewhere.
 Scene - Palpable tension between the superspy and a rival.
 Scene - A clue leads the superspy across the globe.
-Scene - A boat chase or airplane chase.
-Scene - A conflict in a bathroom.
-Scene - Someone important must be reached at the top of a mountain.
+Scene - A dangerous chase with physical obstacles.
+Scene - A conflict inside a residential location.
+Scene - Someone important must be saved.
+Scene - The villain achieves part of their plan
