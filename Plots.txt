@@ -1,9 +1,5 @@
-Last Mission - The superspy finishes their mission. A minor villain is defeated.
-Briefing - The superspy gets a message from their superior. Draw an extra Item Card. The supervillain is taking control of all of those items. The superspy is then ambushed.
-Plot Reveal - The supervillain captures the superspy in a death trap and monologues their real evil plan.
-Final Conflict - The supervillain is defeated.
 Scene - A henchperson with a body part replaced with a weapon attacks.
-Scene - The superspy and villain get close enough to touch, but can't directly attack each other.
+Scene - The superspy and villain meet face to face, but can't directly attack each other.
 Scene - A close quarters fight on an international landmark.
 Scene - Someone is betrayed.
 Scene - An ally is killed.
