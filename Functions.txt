@@ -9,6 +9,7 @@ Creates a Smokescreen
 Deciphers Codes
 Detects Radiation
 Detects Lies
+Disables Cameras
 Electrocutes Everyone Touching It
 Explodes Violently
 Fires a Flare
@@ -18,12 +19,14 @@ Is a Gun
 Is a Jetpack
 Is a Rebreather
 Is Bulletproof
+Is Climbing and Descending Equipment
 Poisons Sharks
 Reflects lasers
 Repels Alligators
 Shoots a Knockout Dart
 Shoots a Laser
 Shoots Flames
+Stores Computer Files
 Summons a Boat
 Transforms into a Plane
 Transmits its Location

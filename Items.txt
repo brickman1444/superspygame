@@ -5,7 +5,6 @@ Briefcase
 Camera
 Car
 Cellphone
-Clear Liquid
 Diamond Necklace
 Form Fitting Tuxedo
 Full Martini Glass
@@ -16,6 +15,7 @@ Handbag
 High Heels
 Makeup
 Motorcycle
+Musical Instrument
 Pen
 Rubber Duck
 Silk Bed Sheet
