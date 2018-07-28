@@ -16,6 +16,10 @@ You will all be playing the same character: Blue Tiger, a competent internationa
 
 Draw one card from the Villain deck and draw one card from the Item deck to insert into the villain description. 
 
+### Cards
+
+Each player starts with a hand of four Function cards. Lay out all the Scene cards for the game face down in a row in a central place.
+
 ## Gameplay
 
 The game is played in turns. During a turn, a player narrates a scene and once they are done, control will pass to the player on their left. The player who most recently saw a spy movie gets the first turn.
@@ -23,7 +27,7 @@ The game is played in turns. During a turn, a player narrates a scene and once t
 If you have four or fewer players, each player will get two turns. If you have more than four players, each player will get one turn. After each player has had enough turns, vote on one player to get a final turn and finish the story. 
 
 ### Turns
-On a turn, the controlling player draws an Item Card, a Function Card and a Scene Card. The Item and Scene cards are face up, and the Function card is face down with only the controlling player knowing what it is.
+On a turn, one player is the controlling player who tells the scene. They flip over the Scene card for this scene and read it aloud. The player to their left draws three Item cards and chooses one to play face up. That is the Item for the scene and the other Item cards are discarded. The controlling player chooses a Function Card from their hand to play. They can keep the choosen Function secret until it is revealed in the scene.
 
 The Function Card and the Item Card for the round defines a cool gadget in the form of: “A ________ that _________” such as “It’s a golf club that poisons sharks.” The player does not reveal the cards to the other players. The player narrates a scene following the prompt from the Scene Card continuing the established story. The scene must involve the superspy getting into a type of trouble or conflict where their gadget (the cards they drew) is the perfect thing to get them out of trouble. A scene should take about 1-5 minutes.
 
@@ -31,4 +35,8 @@ For example, with the golf club that poisons sharks, if the player had drawn the
 
 Once the function is narrated into the story, the player reveals the Function Card.
 
-After their turn, the player discards their Function, Item and Scene Cards.
+After their turn, the player places the played Function and Item cards next to the Scene card.
+
+### The End
+
+After the each player has had either one or two turns, the game is over. The players use gadgets from earlier in the game to collectively end the story.
