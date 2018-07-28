@@ -1,33 +1,37 @@
-Causes Blindness
-Conceals 50 gold coins
-Conceals a Blade
-Conceals a Parachute
-Controlled by a Friendly Artificial Intelligence
-Creates a Mask to Impersonate Someone
-Creates an Exact Replica of an Object or Image
-Creates a Smokescreen
-Deciphers Codes
-Detects Radiation
-Detects Lies
-Disables Cameras
-Electrocutes Everyone Touching It
-Explodes Violently
-Fires a Flare
-Fires a grappling hook
-Hacks into Traffic Cameras and Lights
-Is a Gun
-Is a Jetpack
-Is a Rebreather
-Is Bulletproof
-Is Climbing and Descending Equipment
-Poisons Sharks
-Reflects lasers
-Repels Alligators
-Shoots a Knockout Dart
-Shoots a Laser
-Shoots Flames
-Stores Computer Files
-Summons a Boat
-Transforms into a Plane
-Transmits its Location
-Turns You Invisible
+Causes Blindness 2
+Conceals 50 gold coins 3
+Conceals a Blade 1
+Conceals a Parachute 2
+Controlled by a Friendly Artificial Intelligence 3
+Creates a Mask to Impersonate Someone 2
+Creates an Exact Replica of an Object or Image 3
+Creates a Smokescreen 2
+Deciphers Codes 3
+Detects Radiation 3
+Detects Lies 3
+Disables Cameras 2
+Electrocutes Everyone Touching It 1
+Explodes Violently 1
+Fires a Flare 2
+Fires a Grappling Hook 2
+Hacks into Traffic Cameras and Lights 3
+Is a Gun 1
+Is a Jetpack 1
+Is a Rebreather 3
+Is Bulletproof 1
+Is Climbing and Descending Equipment 3
+Poisons Sharks 2
+Reflects lasers 2
+Repels Alligators 2
+Shoots a Knockout Dart 1
+Shoots a Laser 1
+Shoots Flames 1
+Stores Computer Files 3
+Summons a Boat 2
+Transforms into a Plane 2
+Transmits its Location 3
+Turns You Invisible 2
+
+1 9
+2 13
+3 11
