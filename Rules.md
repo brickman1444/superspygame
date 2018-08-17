@@ -39,4 +39,4 @@ After their turn, the player places the played Function and Item cards next to t
 
 ### The End
 
-After the each player has had either one or two turns, the game is over. The players use gadgets from earlier in the game to collectively end the story.
+After each player has had one turn, any player can choose to end the game on their turn. They do not get a new Item card and they don't play a new Function card. Their Scene prompt is "The superspy defeats the villain". They must use at least three of the gadgets that have already been played to fulfill their scene.
