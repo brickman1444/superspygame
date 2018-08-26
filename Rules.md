@@ -37,6 +37,8 @@ Once the function is narrated into the story, the player reveals the Function Ca
 
 After their turn, the player places the played Function and Item cards next to the Scene card.
 
-### The End
+### The Conclusion
 
-After each player has had one turn, any player can choose to end the game on their turn. They do not get a new Item card and they don't play a new Function card. Their Scene prompt is "The superspy defeats the villain". They must use at least three of the gadgets that have already been played to fulfill their scene.
+After each player has had one turn, any player can choose to start the Conclusion on their turn. The Conclusion is one Scene that each player participates in. The Scene prompt is "The Superspy defeats the Villain". Starting with the player who began the Conclusion, each player takes a turn narrating a small bit into the scene. They choose one of the gadgets previously created by the player on their right to incorporate into the scene.
+
+After each player has participated in the Conclusion, the player who began the conclusion can optionally narrate an epilogue scene to finish up any remaining story threads. 
