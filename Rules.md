@@ -1,44 +1,50 @@
 # I Have Just the Thing
 
-*By Zac Gross*
+*A Superspy Story Game by Zac Gross*
 
-**I Have Just the Thing** is a storytelling game about a superspy which is meant to emulate spy movies like James Bond. The game is intended for 2 to 8 players.
-
-## Setup
+**I Have Just the Thing** is a card-driven storytelling game that emulates spy movies like James Bond or Mission Impossible. The game is intended for 3 or 4 players.
 
 ### The Superspy
 
 ![SuperSpy](PrototypeArt/SuperSpyTemp.jpg)
 
-You will all be playing the same character: Blue Tiger, a competent international superspy.
+You will all be playing the same character: Blue Cobra, a competent international superspy.
+
+## Starting the Game
+
+The player who most recently saw a spy movie gets the first turn.
 
 ### Create a Supervillain
 
-Draw one card from the Villain deck and draw one card from the Item deck to insert into the villain description. 
+The first player draws one card from the Villain deck and draws one card from the Item deck to insert into the villain description. The first player reads the Villain's plot aloud.
 
 ### Cards
 
-Each player starts with a hand of four Function cards. Lay out all the Scene cards for the game face down in a row in a central place.
+Each player starts with a hand of four Function cards.
 
 ## Gameplay
 
-The game is played in turns. During a turn, a player narrates a scene and once they are done, control will pass to the player on their left. The player who most recently saw a spy movie gets the first turn.
-
-If you have four or fewer players, each player will get two turns. If you have more than four players, each player will get one turn. After each player has had enough turns, vote on one player to get a final turn and finish the story. 
+The game is played in turns. During a turn, a player narrates a scene and once they are done, control will pass to the player on their left. 
 
 ### Turns
-On a turn, one player is the controlling player who tells the scene. They flip over the Scene card for this scene and read it aloud. The player to their left draws three Item cards and chooses one to play face up. That is the Item for the scene and the other Item cards are discarded. The controlling player chooses a Function Card from their hand to play. They can keep the choosen Function secret until it is revealed in the scene.
+On a turn, a player narrates a scene. They draw the Scene card for this turn and read it aloud. For the first scene, read the prompt on the Villain card instead. The player to their left draws three Item cards, chooses one to play face up and discards the others. The controlling player chooses a Function Card from their hand to play.
 
-The Function Card and the Item Card for the round defines a cool gadget in the form of: “A ________ that _________” such as “It’s a golf club that poisons sharks.” The player does not reveal the cards to the other players. The player narrates a scene following the prompt from the Scene Card continuing the established story. The scene must involve the superspy getting into a type of trouble or conflict where their gadget (the cards they drew) is the perfect thing to get them out of trouble. A scene should take about 1-5 minutes.
+The played Function Card and the played Item Card for the round defines a cool gadget in the form of: “A ________ that _________” such as “A *golf club* that *poisons sharks*.” The player does not reveal the cards to the other players. The player narrates a scene following the prompt from the Scene Card continuing the established story. The scene must involve the superspy getting into a type of trouble or conflict where their gadget is the perfect thing to get them out of trouble.
 
-For example, with the golf club that poisons sharks, if the player had drawn the Scene Card for "An ally is killed," the player would narrate a scene where the superspy plays golf with the villain to gain information on them. The villain figures out the ploy, throws the superspy and their caddy into a pool of sharks. The caddy doesn't survive, but the superspy is able to get away by hitting each shark with the club and poisoning them.
+> For example, with the golf club that poisons sharks, if the player had drawn the Scene Card for "An ally is killed," the player would narrate a scene where the superspy plays golf with the villain to gain information on them. The villain figures out the ploy, throws the superspy and their caddy into a pool of sharks. The caddy doesn't survive, but the luckily the superspy brought their golf club that poison sharks and is able to take out the sharks and get away.
 
-Once the function is narrated into the story, the player reveals the Function Card.
+After their turn, the player places the played Function and Item cards together in front of them.
 
-After their turn, the player places the played Function and Item cards next to the Scene card.
+### Telling a Scene
+
+The scene should continue the story established by the other players, but a scene can jump around in time. Players can pick up the action immediately after the last scene, jump forward to the next day or go into a flashback. As long as the other players are comfortable, you can establish whatever you want in your scene, but your scene should be focused on how the gadget helps Blue Cobra get out of trouble. Players should adapt to their play group, but keeping scenes under five minutes long is a good guideline. 
 
 ### The Conclusion
 
-After each player has had one turn, any player can choose to start the Conclusion on their turn. The Conclusion is one Scene that each player participates in. The Scene prompt is "The Superspy defeats the Villain". Starting with the player who began the Conclusion, each player takes a turn narrating a small bit into the scene. They choose one of the gadgets previously created by the player on their right to incorporate into the scene.
+After each player has had a turn, any player can choose to start the Conclusion on their turn by saying, "Let's start the conclusion." The Conclusion is one Scene that each player participates in. The Scene prompt is "The Superspy defeats the Villain". Starting with the player who began the Conclusion, each player takes a turn narrating a small bit into the scene. They choose one of the gadgets previously created by the player on their right to incorporate into the scene.
 
 After each player has participated in the Conclusion, the player who began the conclusion can optionally narrate an epilogue scene to finish up any remaining story threads. 
+
+## Optional Rules
+
+Try playing with anywhere between 2 and 10 players
