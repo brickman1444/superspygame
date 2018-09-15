@@ -1,0 +1,14 @@
+## Name List
+- Basil de Bellville
+- Crimson Cobra
+- Doctor Dark
+- Felix Fixer
+- H-21
+- Jenna Jet
+- Kaine Killer
+- Madame Maxine
+- Mister Moneybags
+- Ruby Wrench
+- Sterling Stag
+- Verne Verrig
+- Zora Zelle
