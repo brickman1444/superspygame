@@ -1,8 +1,0 @@
-On a Turn:
-1. Read aloud the new Scene Card
-2. Player to the left draws 3 Item Cards and chooses one
-3. Controlling player chooses one Function Card from their hand
-4. Combine into a gadget in the form of "A ___ that ___"
-
-After Each Player Has Had a Turn:
-On their turn, any player can begin the conclusion by saying, "Let's start the conclusion."
