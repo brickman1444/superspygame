@@ -1,13 +1,13 @@
 Scene - A henchperson with a body part replaced with a weapon attacks.
-Scene - The superspy and villain meet face to face, but can't directly attack each other.
+Scene - Blue Cobra and the villain meet face to face, but can't directly attack each other.
 Scene - A close quarters fight on an international landmark.
 Scene - Someone is betrayed.
 Scene - An ally is killed.
 Scene - A chase with many innocent bystanders.
-Scene - An ally helps the superspy get closer to the villain.
-Scene - The superspy takes on a false identity to infiltrate somewhere.
-Scene - Palpable tension between the superspy and a rival.
-Scene - A clue leads the superspy across the globe.
+Scene - An ally helps Blue Cobra get closer to the villain.
+Scene - Blue Cobra takes on a false identity to infiltrate somewhere.
+Scene - Palpable tension between Blue Cobra and a rival.
+Scene - A clue leads Blue Cobra across the globe.
 Scene - A dangerous chase with physical obstacles.
 Scene - Someone important must be saved.
 Scene - The villain achieves part of their plan
