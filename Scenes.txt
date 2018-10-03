@@ -1,4 +1,4 @@
-Scene - A henchperson with a body part replaced with a weapon attacks.
+Scene - A henchperson with part of their body replaced with a weapon attacks.
 Scene - Blue Cobra and the villain meet face to face, but can't directly attack each other.
 Scene - A close quarters fight on an international landmark.
 Scene - Someone is betrayed.
@@ -10,4 +10,8 @@ Scene - Palpable tension between Blue Cobra and a rival.
 Scene - A clue leads Blue Cobra across the globe.
 Scene - A dangerous chase with physical obstacles.
 Scene - Someone important must be saved.
-Scene - The villain achieves part of their plan
+Scene - The villain achieves part of their plan.
+Scene - Something important is retrieved from a highly protected area.
+Scene - Someone is about to get away on a vehicle.
+Scene - An ally requires a favor to gain their trust.
+Scene - A routine mission turns deadly.
