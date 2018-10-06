@@ -6,8 +6,8 @@ First Scene: Blue Cobra is assigned to protect an ambassador. When the ambassado
 
 Name: Colonel Pain
 Bio: A mercenary with connections to the armed forces of China, India and France.
-Plot: Colonel Pain is trying to destroy the world's supply of [item].
 Personality: Sadistic, Populist, Militaristic
+Plot: Colonel Pain is trying to destroy the world's supply of [item].
 First Scene: Blue Cobra is on vacation when she notices the items getting destroyed / disappearing. Innocent civilian are put in physical danger and she must save them.
 
 Name: Lady Moneybags
@@ -36,6 +36,6 @@ First Scene: While rescuing an a trainee from a deathtrap, Blue Cobra discovers 
 
 Name: Dr. Villainous
 Bio: A crackpot scientist who was discredited after publishing a paper arguing for human extinction.
-Plot: Dr. Villainous is gathering the necessary components to create and release a global plague. They aim to protect the elite of the world in their secret base.
 Personality: Crazy, Scientific, Misanthropic
+Plot: Dr. Villainous is gathering the necessary components to create and release a global plague. They aim to protect the elite of the world in their secret base.
 First Scene: Blue Cobra is the head of security at a greenhouse of valuable plants when Dr. Nostra steals ingredients for the plague.
