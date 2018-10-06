@@ -1,17 +1,34 @@
-Dr. Villainous is using a collection of [item] to take over the world.
+Name: Vastro Villainous
+Plot: Vastro Villainous is using a collection of [item] to take over the world.
+Personality: Eccentric, Reclusive, Controlling
 First Scene: Blue Cobra is assigned to guard a political figure. When the figure is attacked by the forces of Dr. Villainous, Blue Cobra must protect them. 
 
-Colonel Pain is trying to destroy the world's supply of [item].
+Name: Colonel Pain
+Plot: Colonel Pain is trying to destroy the world's supply of [item].
+Personality: Sadistic, Populist, Militaristic
 First Scene: Blue Cobra is on vacation when she notices the items getting destroyed / disappearing. Innocent civilian are put in physical danger and she must save them.
 
-Lady Moneybags is exploiting the market of [item] to make a fortune.
+Name: Lady Moneybags
+Plot: Lady Moneybags is exploiting the market of [item] to make a fortune.
+Personality: Greedy, Intelligent, Elitist
+First Scene:
 
-Countess Von Scar is planning to kill the creator of hottest new [item], who personally wronged her.
+Name: Countess Von Scar
+Plot: Countess Von Scar is planning to kill the creator of hottest new [item], who personally wronged her.
+Personality: Vengeful, Traditional, Combative
+First Scene:
 
-G.H.O.S.T. the criminal cabal behind the [item] industry is trying to assassinate Blue Cobra for foiling a previous plot.
+Name: G.H.O.S.T.
+Plot: G.H.O.S.T., the criminal cabal behind the [item] industry is trying to assassinate Blue Cobra for foiling a previous plot.
+Personality: Organized, Secretive, Omnipresent
 First Scene: Blue Cobra is finishing a mission. She infiltrates the secret location of a gigantic superweapon and disables it, bringing her personally to the attention of G.H.O.S.T.
 
-Senator Smear is secretly a traitor and has disavowed Blue Cobra after she found a suspicious [item].
+Name: Senator Smear
+Plot: Senator Smear is secretly a traitor and has disavowed Blue Cobra after she found a suspicious [item].
+Personality: Ambitious, Fearful, Charismatic
+First Scene: 
 
-Dr. Nuvo Nostra is gathering the necessary components to create and release a global plague. He aims to protect the elite of the world in his secret base.
+Name: Dr. Nostra
+Plot: Dr. Nostra is gathering the necessary components to create and release a global plague. He aims to protect the elite of the world in his secret base.
+Personality: Crazy, Scientific, Misanthropic
 First Scene: Blue Cobra is the head of security at a greenhouse of valuable plants when Dr. Nostra steals ingredients for the plague.
