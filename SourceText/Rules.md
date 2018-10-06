@@ -6,7 +6,8 @@
 
 ### The Superspy
 
-![SuperSpy](PrototypeArt/SuperSpyTemp.jpg)
+![SuperSpy](..\PrototypeArt\SuperSpyTemp.jpg)
+
 
 All players will take turns controlling the same character: Blue Cobra, an international superspy. She's competent, experienced and well connected all around the globe.
 
