@@ -1,3 +1,4 @@
+Ballpoint Pen
 Baseball Cap
 Belt
 Boombox
@@ -5,18 +6,17 @@ Briefcase
 Camera
 Car
 Cellphone
+Chewing Gum
 Diamond Necklace
 Form Fitting Tuxedo
 Full Martini Glass
 Glasses
 Golf Club
-Chewing Gum
 Handbag
 High Heels
 Makeup
 Motorcycle
 Musical Instrument
-Ballpoint Pen
 Rubber Duck
 Silk Bed Sheets
 Skis

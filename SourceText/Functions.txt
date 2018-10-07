@@ -4,11 +4,11 @@ Conceals a Blade
 Conceals a Parachute
 Controlled by a Friendly Artificial Intelligence
 Creates a Mask to Impersonate Someone
-Creates an Exact Replica of an Object or Image
 Creates a Smokescreen
+Creates an Exact Replica of an Object or Image
 Deciphers Codes
-Detects Radiation
 Detects Lies
+Detects Radiation
 Disables Cameras
 Electrocutes Everyone Touching It
 Explodes Violently
