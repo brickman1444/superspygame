@@ -17,17 +17,17 @@ Players take turns as the Director. The player who most recently watched any sor
 
 ### Create a Supervillain
 
-The first Director draws one card from the Villain deck and draws one card from the Item deck to insert into the villain description. The first player reads the Villain's dossier aloud.
+The first Director draws one card from the Villain deck and draws one card from the Item deck to insert into the villain dossier. The first Director reads the Villain's dossier aloud to the other players.
 
 ## Gameplay
 
 ### Turns
 
-During a turn, the Director first draws a Scene Card and reads it aloud. For the first scene, read the prompt on the Villain Card instead of drawing a Scene Card. The player to the left of the Director draws three Item cards, chooses one and discards the others. At the same time, the player to the right of the Director draws three Function cards, chooses one and discards the others. The Director looks at these cards and prepares to tell the scene. They can choose to reveal the cards at any point during their turn.
+During a turn, the Director first gets a Scene prompt. In the first turn, this comes from the Villain's Dossier. In the following turns, the Director will draw three Scene cards, choose one and discard the others. The chosen Scene card is read aloud. Then the player to the left of the Director draws three Item cards, chooses one and discards the others. At the same time, the player to the right of the Director draws three Function cards, chooses one and discards the others. The Director looks at these cards and prepares to tell the scene. They can choose to reveal the cards at any point during their turn.
 
-The Function Card and the Item Card for the round defines a spy gadget in the form of: “An [Item Card] that [Function Card]” such as “A *golf club* that *poisons sharks*.” The player narrates a scene following the prompt from the Scene Card and involving Blue Cobra getting into a type of trouble where her gadget is the perfect thing to get her out of trouble.
+The Function Card and the Item Card for the round define a spy gadget in the form of: “An [Item Card] that [Function Card]” such as “A *golf club* that *poisons sharks*.” The player narrates a scene following the prompt from the Scene Card and involving Blue Cobra getting into a type of trouble where her gadget is the perfect thing to get her out of trouble.
 
-> For example, with the golf club that poisons sharks, if the Director had drawn the Scene Card for "An ally is killed," they would narrate a scene where Blue Cobra plays golf with the villain to gain information on them. The villain figures out the ploy and throws Blue Cobra and her caddy into a pool of sharks. The caddy doesn't survive, but luckily Blue Cobra brought her golf club that poisons sharks and is able to save herself.
+> For example, with the golf club that poisons sharks, if the Director had drawn the Scene Card for "An ally is killed," they would narrate a scene where Blue Cobra plays golf with the villain to gain information on them. The villain figures out the ploy and throws Blue Cobra and her caddie into a pool of sharks. The caddy doesn't survive, but luckily Blue Cobra brought her golf club that poisons sharks and is able to save herself.
 
 After their turn, the Director places the Function and Item cards together in front of them. The gadget may be used later in the Conclusion. The Director discards the Scene Card. The player to their left becomes the new Director.
 
@@ -46,3 +46,11 @@ After each player has participated in the Conclusion, the player who began the c
  * Try playing with anywhere between 2 and 10 players
 
  * Use the provided Name List as inspiration to name any characters in the story
+
+## Mailing List
+
+Sign up to the mailing list to get updates about when the game is released.
+
+![SuperSpy](..\PrototypeArt\mailingListSignupQRCode.png)
+
+# [http://eepurl.com/dHtzAD](http://eepurl.com/dHtzAD)
