@@ -17,7 +17,7 @@ Players take turns as the Director. The player who most recently watched any sor
 
 ### Create a Supervillain
 
-The first Director draws one card from the Villain deck and draws one card from the Item deck to insert into the villain description. The first player reads the Villain's plot aloud.
+The first Director draws one card from the Villain deck and draws one card from the Item deck to insert into the villain description. The first player reads the Villain's dossier aloud.
 
 ## Gameplay
 
