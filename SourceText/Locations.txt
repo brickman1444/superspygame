@@ -15,3 +15,6 @@ A fancy hotel
 A beach
 Blue Cobra's home
 The top of a skyscraper
+The moon
+A train
+A yacht

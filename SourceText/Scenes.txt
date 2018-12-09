@@ -1,18 +1,17 @@
-Scene - A henchperson with part of their body replaced with a weapon attacks.
-Scene - Blue Cobra and the villain meet face to face, but can't directly attack each other.
-Scene - A close quarters fight on an international landmark.
-Scene - Someone is betrayed.
-Scene - An ally is killed.
-Scene - A chase with many innocent bystanders.
-Scene - An ally helps Blue Cobra get closer to the villain.
-Scene - Blue Cobra takes on a false identity to infiltrate somewhere.
-Scene - Palpable tension between Blue Cobra and a rival.
-Scene - A clue leads Blue Cobra across the globe.
-Scene - A dangerous chase with physical obstacles.
-Scene - Someone important must be saved.
-Scene - The villain achieves part of their plan.
-Scene - Something important is retrieved from a highly protected area.
-Scene - Someone is about to get away on a vehicle.
-Scene - An ally requires a favor to gain their trust.
-Scene - A routine mission turns deadly.
-Scene - The villain kidnaps someone close to Blue Cobra.
+A henchperson with part of their body replaced with a weapon attacks.
+Blue Cobra must get a scientist from [Location] to the safety of the Agency
+Blue Cobra secretly steals a computer file from within the Agency
+Blue Cobra chases a henchperson on motorcycles in [Location]
+Blue Cobra is trapped above a pool of sharks
+An alligator attacks at [Location]
+A lion attacks at [Location]
+Blue Cobra plays a game against the villain in [Location]
+Blue Cobra must sneak into a well guarded [Location] to gain some information
+Blue Cobra's brother is strapped to a bomb in [Location]
+A building needs to be destroyed to remove evidence
+A rival spy races Blue Cobra to [Location]
+A small time criminal tries to escape [Location]
+A key piece of tech is at [Location] but the villain's guards block the straightforward approach
+A squad of guards attacks with guns
+Blue Cobra must find a murderer in [Location]
+Blue Cobra is invited to dinner with the villain at [Location]
