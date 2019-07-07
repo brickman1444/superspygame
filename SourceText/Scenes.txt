@@ -1,17 +1,25 @@
-A henchperson with part of their body replaced with a weapon attacks.
-Blue Cobra must get a scientist from [Location] to the safety of the Agency
-Blue Cobra secretly steals a computer file from within the Agency
+Act 1 - Setup
 Blue Cobra chases a henchperson on motorcycles in [Location]
-Blue Cobra is trapped above a pool of sharks
+Blue Cobra must sneak into a well guarded [Location] to gain some information
 An alligator attacks at [Location]
 A lion attacks at [Location]
-Blue Cobra plays a game against the villain in [Location]
-Blue Cobra must sneak into a well guarded [Location] to gain some information
-Blue Cobra's brother is strapped to a bomb in [Location]
-A building needs to be destroyed to remove evidence
-A rival spy races Blue Cobra to [Location]
 A small time criminal tries to escape [Location]
-A key piece of tech is at [Location] but the villain's guards block the straightforward approach
-A squad of guards attacks with guns
+
+Act 2 - Development
+A henchperson with part of their body replaced with a weapon attacks.
+Blue Cobra must get a scientist from [Location] to the safety of the Agency
+A rival spy races Blue Cobra to [Location]
+A squad of goons attacks with guns
 Blue Cobra must find a murderer in [Location]
+Blue Cobra sees the villain at a distance
+
+Act 3 - Development 2
+Blue Cobra secretly steals a computer file from within the Agency
+Blue Cobra is trapped above a pool of sharks
+A building needs to be destroyed to remove evidence
+A key piece of tech is at [Location] but the villain's guards block the straightforward approach
 Blue Cobra is invited to dinner with the villain at [Location]
+
+Act 4 - Resolution
+Blue Cobra plays a game against the villain in [Location]
+Blue Cobra's brother is strapped to a bomb in [Location]
