@@ -1,25 +1,28 @@
 Act 1 - Setup
-Blue Cobra chases a henchperson on motorcycles in [Location]
-Blue Cobra must sneak into a well guarded [Location] to gain some information
-An alligator attacks at [Location]
-A lion attacks at [Location]
-A small time criminal tries to escape [Location]
+Blue Cobra chases a henchperson
+Blue Cobra must sneak into a well guarded location to gain some information
+A dangerous animal attacks Blue Cobra
+Blue Cobra must convince a paranoid contact to help her
+Blue Cobra is trained by her mentor
 
 Act 2 - Development
 A henchperson with part of their body replaced with a weapon attacks.
-Blue Cobra must get a scientist from [Location] to the safety of the Agency
-A rival spy races Blue Cobra to [Location]
+Blue Cobra must get a valuable contact to the safety of the Agency
+A rival spy races Blue Cobra
 A squad of goons attacks with guns
-Blue Cobra must find a murderer in [Location]
+Blue Cobra must find a murderer
 Blue Cobra sees the villain at a distance
 
 Act 3 - Development 2
 Blue Cobra secretly steals a computer file from within the Agency
-Blue Cobra is trapped above a pool of sharks
+Blue Cobra is trapped in a death trap
 A building needs to be destroyed to remove evidence
-A key piece of tech is at [Location] but the villain's guards block the straightforward approach
-Blue Cobra is invited to dinner with the villain at [Location]
+Blue Cobra must obtain a key item but the villain has blocked the straightforward approach
+Blue Cobra is invited to dinner with the villain
+Blue Cobra is betrayed by an ally
+The villain reveals their true plan
 
 Act 4 - Resolution
-Blue Cobra plays a game against the villain in [Location]
-Blue Cobra's brother is strapped to a bomb in [Location]
+Blue Cobra plays a game against the villain
+Blue Cobra's brother is strapped to a death trap
+Blue Cobra must make a final stand against the villain's attacks
